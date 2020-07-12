@@ -1,4 +1,4 @@
-# Flask_WebApp
+# Flask_WebApp - Online Book Store
 Flask Web Application for an online book catalogue
 
 - Developed a flask framework based scalable, dynamic, full stack web application for an online book catalog.
